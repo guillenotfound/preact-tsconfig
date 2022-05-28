@@ -19,5 +19,5 @@
     "jsxFragmentFactory": "Fragment"
   },
   "include": ["src"],
-  "references": [{ "path": "./tsconfig.nodeA.json" }]
+  "references": [{ "path": "./tsconfig.nodeB.json" }]
 }
